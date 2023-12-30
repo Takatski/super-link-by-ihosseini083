@@ -1,0 +1,9 @@
+{
+  "ngrok": {
+    "token": "",
+    "region": "au"
+  },
+  "telegram": {
+    "chat_id": ""
+  }
+}
